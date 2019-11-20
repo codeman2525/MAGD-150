@@ -14,8 +14,8 @@ Link to Project:
 
 [Link to Scource code](https://github.com/codeman2525/MAGD-150/blob/gh-pages/s19magd150lab04_Garthwaite/Dynamism.js)
 
-##Example 3:
+## Example 3: Intersections
 
 Link to Project:
 
-[Link to Scource code](
+[Link to Scource code](https://github.com/codeman2525/MAGD-150/blob/gh-pages/MAGD150_P5_HW%205/HW%205/Intersection.js)

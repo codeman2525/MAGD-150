@@ -19,3 +19,10 @@ Link to Project:
 Link to Project:
 
 [Link to Scource code](https://github.com/codeman2525/MAGD-150/blob/gh-pages/MAGD150_P5_HW%205/HW%205/Intersection.js)
+
+## Example 4: Organizatinon 
+
+Link to Project:
+
+[Link to Scource code](https://github.com/codeman2525/MAGD-150/blob/gh-pages/MAGD150_P5_HW%206/Organization.js)
+

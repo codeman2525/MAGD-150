@@ -6,10 +6,10 @@ Below are examples of code, written in in P5.js for MAGD150
 
 Link to Project:
 
-[Link to Scource code](https://github.com/codeman2525/MAGD-150/tree/gh-pages/f19magd150lab03_Garthwaite
+[Link to Scource code](https://github.com/codeman2525/MAGD-150/tree/gh-pages/f19magd150lab03_Garthwaite)
 
 ## Example 2: Dynamism
 
 Link to Project:
 
-[Link to Scource code](
+[Link to Scource code](https://github.com/codeman2525/MAGD-150/tree/gh-pages/s19magd150lab04_Garthwaite)

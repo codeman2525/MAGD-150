@@ -13,3 +13,9 @@ Link to Project:
 Link to Project:
 
 [Link to Scource code](https://github.com/codeman2525/MAGD-150/blob/gh-pages/s19magd150lab04_Garthwaite/Dynamism.js)
+
+##Example 3:
+
+Link to Project:
+
+[Link to Scource code](

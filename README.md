@@ -6,11 +6,15 @@ Below are examples of code, written in in P5.js for MAGD150
 
 Link to Project:
 
+This project uses math functions to creates bobbles on the screen to act as a screensaver with some animation 
+
 [Link to Scource code](https://github.com/codeman2525/MAGD-150/blob/gh-pages/f19magd150lab03_Garthwaite/ScreenSaver.js)
 
 ## Example 2: Dynamism
 
 Link to Project:
+
+
 
 [Link to Scource code](https://github.com/codeman2525/MAGD-150/blob/gh-pages/s19magd150lab04_Garthwaite/Dynamism.js)
 
@@ -29,6 +33,8 @@ Link to Project:
 ## Example 5: Recursive Tree
 
 Link to Project:
+
+This project uses the recursive function to draw a tree and branches as objects so they can be manipulated 
 
 [Link to Scource code](https://github.com/codeman2525/MAGD-150/blob/gh-pages/MAGD150_P5_HW%207/sketch.js)
 

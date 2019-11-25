@@ -14,7 +14,7 @@ This project uses math functions to creates bobbles on the screen to act as a sc
 
 Link to Project:
 
-
+This project creates a scene of a pizza and a glass of soda there is also user interation if you click the mouse the pizza gets a bite out of it if you press a key the soda gets sipped 
 
 [Link to Scource code](https://github.com/codeman2525/MAGD-150/blob/gh-pages/s19magd150lab04_Garthwaite/Dynamism.js)
 
@@ -22,11 +22,15 @@ Link to Project:
 
 Link to Project:
 
+This project creates an interactive button 
+
 [Link to Scource code](https://github.com/codeman2525/MAGD-150/blob/gh-pages/MAGD150_P5_HW%205/HW%205/Intersection.js)
 
 ## Example 4: Organizatinon 
 
 Link to Project:
+
+This project uses some custom function to create a retro game theme of space invaders 
 
 [Link to Scource code](https://github.com/codeman2525/MAGD-150/blob/gh-pages/MAGD150_P5_HW%206/Organization.js)
 
